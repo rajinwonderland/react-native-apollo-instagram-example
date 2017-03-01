@@ -1,4 +1,6 @@
 # react-native-apollo-instagram-example
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/graphcool-examples/react-native-apollo-instagram-example.svg)](https://greenkeeper.io/)
 ![](http://i.imgur.com/CH44AZF.png)
 
 
